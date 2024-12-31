@@ -1,0 +1,11 @@
+@media screen and (max-width: 1200px) {
+    /* Hide the desktop navigation */
+    #desktop_nav {
+        display: none;
+    }
+
+    /* Show the mobile navigation */
+    #sec-nav {
+        display: flex;
+    }
+}
